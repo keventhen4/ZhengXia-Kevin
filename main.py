@@ -1,11 +1,8 @@
-import sys, time, random, os, rsa
+import sys, time, random, os
 from termcolor import colored
-from cryptography.fernet import Fernet
-from colorsmodule import colortxt
-from systemprint import systemprint
 
 
-prg = open("code.py", "r")
+prg = open("Preview.txt", "r")
 exec(prg.read())
 
 
