@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ZhengXia-Kevin
-- 👀 I’m interested in coding, gaming, having fun
-- 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on something
-- 📫 How to reach me: nowhere
+- Hey, I’m @keventhen4
+- Interested in coding, gaming, having fun, and art (music, digital, painting, etc)
+- Looking to collaborate on something
+- 📫 How to reach me: keventhenx@gmail.com (expect a reply within a week)
 
 <!---
 ZhengXia-Kevin/ZhengXia-Kevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
